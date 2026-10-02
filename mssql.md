@@ -1,3 +1,4 @@
+```
 terraform {
   required_providers {
     azurerm = {
@@ -39,3 +40,4 @@ resource "azurerm_mssql_database" "sql_database" {
     foo = "prod"
   }
 }
+```
