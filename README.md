@@ -1,4 +1,4 @@
-## Run
+# Run
 
 ```bash
 git clone https://github.com/atulkamble/Terraform-AzureVM.git
