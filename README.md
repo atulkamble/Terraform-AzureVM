@@ -7,8 +7,6 @@ chmod +x script.sh
 ./script.sh
 ```
 
-## Architecture
-
 # Azure Linux VM Architecture
 
 This diagram represents the resources and Terraform relationships defined in this repository.
